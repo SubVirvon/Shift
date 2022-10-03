@@ -1,0 +1,8 @@
+C:\Users\Danii\source\repos\Shift\Shift\bin\Debug\Shift.exe.config
+C:\Users\Danii\source\repos\Shift\Shift\bin\Debug\Shift.exe
+C:\Users\Danii\source\repos\Shift\Shift\bin\Debug\Shift.pdb
+C:\Users\Danii\source\repos\Shift\Shift\obj\Debug\Shift.csproj.AssemblyReference.cache
+C:\Users\Danii\source\repos\Shift\Shift\obj\Debug\Shift.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danii\source\repos\Shift\Shift\obj\Debug\Shift.csproj.CoreCompileInputs.cache
+C:\Users\Danii\source\repos\Shift\Shift\obj\Debug\Shift.exe
+C:\Users\Danii\source\repos\Shift\Shift\obj\Debug\Shift.pdb
